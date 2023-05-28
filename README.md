@@ -19,6 +19,9 @@ The data contains feature films released between 2000-01-01 and 2010-12-31 (sort
   In the App.py file, we have different visualizations with : Here are some examples: 
   
   
-  #### First graph
-     
-  #### Second graph
+  #### Plotly with FunnyPlot
+   ![](images/first_image.PNG)  
+   
+   
+  #### Plotly with Barplot
+  ![](images/second_image.PNG)
